@@ -1,3 +1,4 @@
 name = int(input("Как твоё имя?: "))
-print("Привет,", name)
 #access check
+lastname = int(input("Как ваша фамилия?: "))
+print("Доброе пожаловать,", name, lastname)
